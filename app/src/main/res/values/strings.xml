@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="mario">Super Mario Bros.</string>
+    <string name="zelda">Legend of Zelda</string>
+    <string name="ff">Final Fantasy</string>
+    <string name="mm">Mega Man</string>
+    <string name="playlists">Playlists</string>
+</resources>

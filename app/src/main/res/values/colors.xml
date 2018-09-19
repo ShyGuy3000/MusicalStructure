@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the Super Mario category -->
+    <color name="series_mario">#E52521</color>
+
+    <!-- Background color for the Legend of Zelda members category -->
+    <color name="series_zelda">#43B047</color>
+
+    <!-- Background color for the Final Fantasy category -->
+    <color name="series_ff">#000080</color>
+
+    <!-- Background color for the Mega Man category -->
+    <color name="series_mm">#049CD8</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="category_height">60dp</dimen>
+    <dimen name="layout_margins">8dp</dimen>
+    <dimen name="list_item_height">88dp</dimen>
+</resources>

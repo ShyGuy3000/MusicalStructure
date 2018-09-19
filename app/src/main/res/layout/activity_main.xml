@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context="com.example.android.musicalstructure.MainActivity">
+
+    <!-- Super Mario category -->
+    <FrameLayout
+        style="@style/FrameStyle"
+        android:background="@color/series_mario">
+        <TextView
+            android:id="@+id/superMario"
+            style="@style/SeriesStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/mario" />
+    </FrameLayout>
+
+    <!-- Legend of Zelda category -->
+    <FrameLayout
+        style="@style/FrameStyle"
+        android:background="@color/series_zelda">
+        <TextView
+            android:id="@+id/legendOfZelda"
+            style="@style/SeriesStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/zelda" />
+    </FrameLayout>
+
+    <!-- Final Fantasy category -->
+    <FrameLayout
+        style="@style/FrameStyle"
+        android:background="@color/series_ff">
+        <TextView
+            android:id="@+id/finalFantasy"
+            style="@style/SeriesStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/ff" />
+    </FrameLayout>
+
+    <!-- Mega Man category -->
+    <FrameLayout
+        style="@style/FrameStyle"
+        android:background="@color/series_mm">
+        <TextView
+            android:id="@+id/megaMan"
+            style="@style/SeriesStyle"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="@string/mm" />
+    </FrameLayout>
+</LinearLayout>
